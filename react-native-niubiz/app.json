@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "proyecto-pasarela-pago",
+    "slug": "proyecto-pasarela-pago",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f4a493b7-b304-48e1-b3dd-a703be0f5949"
+      }
+    }
+  }
+}
